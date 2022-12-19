@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @alanR2914
+- 👀 I’m interested in  conseguir mi primer empleo IT
+- 🌱 I’m currently learning  JS y React
+- 💞️ I’m looking to collaborate on cualquier proyecto, soy muy consiente de que necesito experiencia y por ellos no busco en especial.
+- 📫 How to reach me  podrian hacerlo a mi mail alan.romero1@yahoo.com.ar
+- hace un tiempo  empece la carrera de Certified Tech Developer en Digital House, ya habia cursado full stack , con JS y React, pero no me sentia seguro, para ello empece denuevo , con sonociemientos solidos creo que estoy llegando mas  lejos que aprendiendo a los golpes.
+- deseo aprender mucho dado que me apasiona la carrera y el mundo IT
